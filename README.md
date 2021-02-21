@@ -1,6 +1,8 @@
 # Drum Kit Game
-This time i am using HTML5,CSS3 and JavaScript with some mouse and keyboard event listeners to active sounds and animations.
+Simple drum kit web game
 
-Enjoy playing the game :)
+## Getting Started
+Just click on the link below 👇 and start playing, enjoy !
 
-https://hananshpigler.github.io/DrumKit/
+🥁 https://hananshpigler.github.io/DrumKit/ 🥁
+
